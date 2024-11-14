@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p8670-e1433908.adobeaemcloud.com/bin/franklink.delivery/epsilon-asutosh/eds-poc/main"
+    url: "https://author-p8670-e1433908.adobeaemcloud.com/bin/franklin.delivery/epsilon-asutosh/eds-poc/main"
     type: "markup"
     suffix: ".html"
