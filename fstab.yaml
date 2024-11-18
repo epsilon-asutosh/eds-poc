@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p8670-e1433908.adobeaemcloud.com/bin/franklin.delivery/epsilon-asutosh/eds-poc/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive:google:com/drive/folders/14YmBi8KeOPsgnrtJ0TVO9ZX4fD6poG2u
